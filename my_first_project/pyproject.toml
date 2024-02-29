@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "my-first-project"
+version = "0.1.0"
+description = ""
+authors = ["Chatmongkol5 <157188283+Chatmongkol5@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.1"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

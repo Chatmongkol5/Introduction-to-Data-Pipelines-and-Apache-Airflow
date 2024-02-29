@@ -24,8 +24,8 @@ def _get_dog_images():
     api_url = "https://api.jsonbin.io/v3/b"
     headers = {
         "Content-Type": "application/json",
-        "X-Master-Key": "$2b$10$xnAci6EuZSelkB6syNaJQeGWLgw7qUKBdFljfH3aBuPR903Fj.vpq",
-        "X-Collection-Id": "64a0f7d09d312622a378faaa",
+        "X-Master-Key": "$2a$10$PpTGfzfgdoKFSkO9zB0v2etrnW/LEAuXVLoN9gCCJLaQV5t0iWl7W",
+        "X-Collection-Id": "65ab440cdc7465401896f11d",
     }
 
     # Read data from file
